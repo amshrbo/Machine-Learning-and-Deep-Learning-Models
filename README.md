@@ -32,8 +32,8 @@ And included them in a well documented jupyter notebooks or python files both of
 
 
 ## Clone:
-+ Clone this repo to your local machine using: + `https://github.com/sherbo97/Machine-Learning-and-Deep-Learning-Models.git`
-
+### Clone this repo to your local machine using: 
+Via Https:  `https://github.com/sherbo97/Machine-Learning-and-Deep-Learning-Models.git`  
 
 ## Support
 ### You can find me at one of the following places!
