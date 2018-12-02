@@ -12,7 +12,7 @@ And included them in a well documented jupyter notebooks or python files both of
     + Decision Tree
     + K-means
 
-+ <a href='./Auto-Encoders'><h4>Auto-Encoders</h4></a> 
++ <a href='./Auto-Encoders/'><h4>Auto-Encoders</h4></a> 
 
     + <a href='./Auto-Encoders/Auto-encoders with Data Compression/'>Data Compression</a>
 
