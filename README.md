@@ -23,6 +23,11 @@ And included them in a well documented jupyter notebooks or python files both of
     + <a href='./Auto-Encoders/Auto-encoders with recommendation systems/'>Recommendation Systems</a>
 
 
++ <a href='./Boltzmann Machines/'><h4>Boltzmann machine</h4></a> 
+
+    + <a href='./Boltzmann Machines/Binary recommendation system with RBM'>Binary Recommendation system with RBM</a>
+
+
 + <a href='./Self Organizing Maps/'><h4>Self organizing maps</h4></a>  
     + <a href='./Self Organizing Maps/Fraud Detection with self organizing maps'>Fraud Detection with SOMs</a>
 
