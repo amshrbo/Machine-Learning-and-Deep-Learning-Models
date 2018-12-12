@@ -14,7 +14,7 @@ And included them in a well documented jupyter notebooks or python files both of
 
 + <a href='./Recurrent Neural Network/'><h4>Recurrent Neural Network</h4></a> 
 
-    + <a href='./Predicting Google stock price using stacked LSTM/'>Predicting Google stock price using stacked LSTM</a>
+    + <a href='./Recurrent Neural Network/Predicting Google stock price using stacked LSTM/'>Predicting Google stock price using stacked LSTM</a>
 
 
 + <a href='./Auto-Encoders/'><h4>Auto-Encoders</h4></a> 
