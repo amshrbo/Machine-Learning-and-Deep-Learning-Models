@@ -1,6 +1,6 @@
 ## Machine Learning and Deep Learning Models
 <h4>In this repository I've collected all the models and projects that I did during my learning journey From different resources e.g: articles, books, and courses.  
-And included them in a well documented jupyter notebooks or python files both of them with README markdown files so that it maybe help someone</h4>
+And included them in a well documented jupyter notebooks or python files both of them with README markdown files, so that it maybe help someone</h4>
 
 
 
@@ -11,6 +11,11 @@ And included them in a well documented jupyter notebooks or python files both of
     + Multi-layer Neural Network
     + Decision Tree
     + K-means
+
++ <a href='./Recurrent Neural Network/'><h4>Recurrent Neural Network</h4></a> 
+
+    + <a href='./Predicting Google stock price using stacked LSTM/'>Predicting Google stock price using stacked LSTM</a>
+
 
 + <a href='./Auto-Encoders/'><h4>Auto-Encoders</h4></a> 
 
