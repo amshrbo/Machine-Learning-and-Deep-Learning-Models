@@ -14,11 +14,11 @@ And included them in a well documented jupyter notebooks or python files both of
 
 + <a href='./Auto-Encoders/'><h4>Auto-Encoders</h4></a> 
 
-    + <a href='./Auto-Encoders/Auto-encoders with Data Compression/'>Data Compression</a>
+    + Data Compression
 
     + <a href='./Auto-Encoders/Auto-encoders with Dimensionality Reduction'>Dimensionality Reduction</a>
 
-    + <a href='./Auto-Encoders/Auto-encoders with Feature Detection/'>Feature Detection</a>
+    + Feature Detection
 
     + <a href='./Auto-Encoders/Auto-encoders with recommendation systems/'>Recommendation Systems</a>
 
@@ -26,7 +26,7 @@ And included them in a well documented jupyter notebooks or python files both of
 + <a href='./Self Organizing Maps/'><h4>Self organizing maps</h4></a>  
     + <a href='./Self Organizing Maps/Fraud Detection with self organizing maps'>Fraud Detection with SOMs</a>
 
-    + <a href='./Fraud Detection with self organizing maps/Dimensionality reduction/'>Dimensionality reduction</a>
+    + Dimensionality reduction
 
 
 
