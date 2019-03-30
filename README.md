@@ -16,7 +16,7 @@ And included them in a well documented jupyter notebooks or python files both of
 
     + Data Compression
 
-    + <a href='./Auto-Encoders/Auto-encoders with Dimensionality Reduction'>Dimensionality Reduction</a>
+    + Dimensionality Reduction
 
     + Feature Detection
 
